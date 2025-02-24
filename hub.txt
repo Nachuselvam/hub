@@ -1,5 +1,3 @@
 hello welcome to github
 git update
 fb1 update
-tester update1
-tester update2
